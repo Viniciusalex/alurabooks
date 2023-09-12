@@ -24,7 +24,6 @@ O AluraBooks é uma aplicação web fictícia que apresenta uma coleção de liv
 
    ```bash
    git clone https://github.com/Viniciusalex/formulario-django.git
-   ```
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar a página.
-```
+
