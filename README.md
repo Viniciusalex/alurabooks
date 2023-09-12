@@ -1,11 +1,9 @@
 ```markdown
 # AluraBooks
 
-![Logo da AluraBooks](/img/Logo.svg)
-
 ## Descrição
 
-O AluraBooks é uma aplicação web fictícia que apresenta uma coleção de livros em diferentes categorias. O projeto demonstra o uso de HTML, CSS e JavaScript para criar uma página web interativa.
+O AluraBooks é uma aplicação web fictícia que apresenta uma coleção de livros em diferentes categorias. Este projeto demonstra o uso de HTML, CSS e JavaScript para criar uma página web interativa.
 
 ## Funcionalidades
 
@@ -18,14 +16,15 @@ O AluraBooks é uma aplicação web fictícia que apresenta uma coleção de liv
 - HTML5
 - CSS3
 - JavaScript
-- Swiper.js (para o carrossel de livros)
+- [Swiper.js](https://swiperjs.com/) (para o carrossel de livros)
 
 ## Como Executar
 
 1. Clone este repositório:
 
-```bash
-git clone https://github.com/Viniciusalex/formulario-django.git
-```
+   ```bash
+   git clone https://github.com/Viniciusalex/formulario-django.git
+   ```
 
 2. Abra o arquivo `index.html` no seu navegador para visualizar a página.
+```
